@@ -1,0 +1,5 @@
+CREATE OR REPLACE FILE FORMAT TEST_FF
+	SKIP_HEADER = 1
+	COMPRESSION = auto
+COMMENT='created a file format'
+;
