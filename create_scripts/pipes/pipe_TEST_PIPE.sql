@@ -1,0 +1,1 @@
+create or replace pipe TEST_PIPE auto_ingest=false as copy into test_table;
