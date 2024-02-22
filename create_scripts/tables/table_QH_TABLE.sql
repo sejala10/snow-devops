@@ -1,0 +1,5 @@
+create or replace TABLE QH_TABLE (
+	NAME VARCHAR(50),
+	ID NUMBER(38,0),
+	DOJ DATE
+);

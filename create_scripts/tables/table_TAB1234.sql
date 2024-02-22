@@ -1,0 +1,4 @@
+create or replace TABLE TAB1234 (
+	COLUMN1 VARCHAR(50),
+	COLUMN2 VARCHAR(50)
+);
